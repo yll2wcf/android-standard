@@ -1,3 +1,5 @@
-# My Awesome Book
+# Android标准规范整理
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+卓朗科技移动组 Android 开发标准分享
+
+预览地址: http://android.520wcf.com
