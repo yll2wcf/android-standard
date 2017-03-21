@@ -97,7 +97,7 @@ public interface NetInterface {
 Call<Bean> getAddress(@Query("phone") String phone, @Query("key") String key);
 ```
 
-@Quert表示查询参数，用于GET查询，注解里的字符串是参数的key值，参数会自动拼装到Url后面。
+@Query表示查询参数，用于GET查询，注解里的字符串是参数的key值，参数会自动拼装到Url后面。
 除了上面的注解，再给大家介绍几种不同的注解。
 
 ##常用的注解
