@@ -8,7 +8,8 @@
   * [日志工具](日志.md)
 * [API汇总](chapter4.md)
   * [消息推送](chapter4-1.md)
-  * [Retrofit基础](retrofit.md)
+  * [Retrofit基础](retrofit基础.md)
+  * [Retrofit进阶](retrofit进阶.md)
 * [模板代码](chapter5.md)
   * [toolbar](toolbar.md)
 
