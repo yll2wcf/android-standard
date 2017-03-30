@@ -8,6 +8,7 @@
   * [日志工具](日志.md)
   * [MD5加密工具类](md5jia-mi-gong-ju-lei.md)
   * [获取设备唯一标示](huo-qu-she-bei-wei-yi-biao-shi.md)
+  * [DrawableUtils](drawableutils.md)
 * [API汇总](chapter4.md)
   * [消息推送](chapter4-1.md)
   * [Retrofit基础](retrofit基础.md)
