@@ -13,7 +13,9 @@
   * [消息推送](chapter4-1.md)
   * [Retrofit基础](retrofit基础.md)
   * [Retrofit进阶](retrofit进阶.md)
+  * [Retrofit缓存](retrofithuan-cun.md)
 * [模板代码](chapter5.md)
   * [toolbar](toolbar.md)
   * [动态申请权限](dong-tai-shen-qing-quan-xian.md)
+  * [下载](xia-zai.md)
 
